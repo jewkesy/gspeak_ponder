@@ -20,4 +20,5 @@ android {
 
 dependencies {
     compile files('libs/jelly-standalone-0.5-beta.jar')
+    compile files('lib/jelly-standalone-0.5-beta.jar')
 }
