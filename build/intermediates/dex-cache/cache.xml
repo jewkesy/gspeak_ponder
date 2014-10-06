@@ -2,10 +2,10 @@
 <pre-dex-items>
 
     <item
-        dex="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/build/intermediates/pre-dexed/debug/jelly-standalone-0.4-e5929f5911ee8a497289a8a6ae5b313be7dd9f76.jar"
-        jar="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/libs/jelly-standalone-0.4.jar"
+        dex="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/build/intermediates/pre-dexed/debug/jelly-standalone-0.5-beta-30a1c8e6e35ae2d6318765f3b197515fe2352e6f.jar"
+        jar="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/libs/jelly-standalone-0.5-beta.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="bf6245c15a1ebdc668c1ab531f31eac9b88edda0"/>
+        sha1="dbecc4dad08cd281b286be69460c62bd109d24db"/>
 
 </pre-dex-items>

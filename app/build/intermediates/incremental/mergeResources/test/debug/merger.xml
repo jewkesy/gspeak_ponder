@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/androidTest/res" />
+        <source path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/build/generated/res/rs/test/debug" />
+        <source path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/build/generated/res/generated/test/debug" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+  <RelativeLayout android:layout_width="wrap_content"
+                  android:layout_height="wrap_content">
+
+    <TextView android:id="@+id/protein_idx"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentLeft="true"
+              android:layout_margin="5dp"
+              android:singleLine="true"
+              android:text=""
+              android:textStyle="bold"
+              android:textSize="15sp" />
+
+    <TextView android:id="@+id/protein_org"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_below="@id/protein_idx"
+              android:layout_alignParentLeft="true"
+              android:layout_marginLeft="5dp"
+              android:singleLine="true"
+              android:text=""
+              android:textSize="12sp" />
+
+    <TextView android:id="@+id/protein_descrips"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_below="@id/protein_org"
+              android:layout_alignParentRight="true"
+              android:layout_margin="10dp"
+              android:singleLine="true"
+              android:text=""
+              android:textStyle="bold"
+              android:textSize="15sp" />
+
+    <TextView android:id="@+id/protein_descrips_x"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_below="@id/protein_descrips"
+              android:layout_alignParentLeft="true"
+              android:layout_marginLeft="10dp"
+              android:singleLine="false"
+              android:typeface="monospace"
+              android:textSize="13sp" />
+
+    <TextView android:id="@+id/protein_ingests"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_below="@id/protein_descrips_x"
+              android:layout_alignParentRight="true"
+              android:layout_margin="10dp"
+              android:singleLine="true"
+              android:text=""
+              android:textStyle="bold"
+              android:textSize="15sp" />
+
+    <TextView android:id="@+id/protein_ingests_x"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_below="@id/protein_ingests"
+              android:layout_alignParentLeft="true"
+              android:layout_marginLeft="10dp"
+              android:singleLine="false"
+              android:typeface="monospace"
+              android:text=""
+              android:textSize="13sp" />
+
+    <TextView android:id="@+id/protein_data"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_below="@id/protein_ingests_x"
+              android:layout_alignParentRight="true"
+              android:layout_margin="10dp"
+              android:singleLine="true"
+              android:text=""
+              android:textStyle="bold"
+              android:textSize="15sp" />
+
+    <TextView android:id="@+id/protein_data_x"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_below="@id/protein_data"
+              android:layout_alignParentLeft="true"
+              android:layout_marginLeft="10dp"
+              android:singleLine="false"
+              android:text=""
+              android:typeface="monospace"
+              android:textSize="13sp" />
+
+  </RelativeLayout>
+</ScrollView>
+<!-- From: file:/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/protein_details.xml -->

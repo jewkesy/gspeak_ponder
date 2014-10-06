@@ -80,7 +80,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 8 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="jelly-standalone-0.4" level="project" />
+    <orderEntry type="library" exported="" name="jelly-standalone-0.5-beta" level="project" />
   </component>
 </module>
 

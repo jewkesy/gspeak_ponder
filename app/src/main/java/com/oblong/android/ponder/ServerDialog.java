@@ -5,6 +5,7 @@ package com.oblong.android.ponder;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -53,9 +54,10 @@ final class ServerDialog implements DialogInterface.OnClickListener,
             final int p = Integer.parseInt(port.getText().toString());
             if (p < 0 || p > 65456) return null;
             final PoolServerAddress sa =
-                new PoolServerAddress("tcp", host.getText().toString(), p);
+                new PoolServerAddress(host.getText().toString(), p);
             return PoolServers.get(sa);
         } catch (PoolException e) {
+            Log.e(host.getText().toString(), e.getMessage());
             return null;
         }
     }

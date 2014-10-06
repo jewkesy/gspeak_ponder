@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jelly-standalone-0.5-beta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/jelly-standalone-0.5-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

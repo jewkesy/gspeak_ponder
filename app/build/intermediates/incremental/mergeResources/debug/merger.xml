@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res" >
+            <file
+                name="ic_menu_add"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable/ic_menu_add.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_bookmark"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable/ic_menu_bookmark.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_delete"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable/ic_menu_delete.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_favorite"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable/ic_menu_favorite.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_favorite_add"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable/ic_menu_favorite_add.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_favorite_remove"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable/ic_menu_favorite_remove.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_goto"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable/ic_menu_goto.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_info_details"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable/ic_menu_info_details.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_refresh"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable/ic_menu_refresh.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_search"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable/ic_menu_search.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_view"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable/ic_menu_view.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="bookmark"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/bookmark.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="jump_dialog"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/jump_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pool_details"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/pool_details.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pool_info_dialog"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/pool_info_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pool_item"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/pool_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pools_title"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/pools_title.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="protein_details"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/protein_details.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="protein_item"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/protein_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="server_details"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/server_details.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="server_dialog"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/server_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="server_info_dialog"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/server_info_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="server_item"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/server_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="server_list_help"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/layout/server_list_help.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="bookmark_context"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/menu/bookmark_context.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="pool_details"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/menu/pool_details.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="server_context"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/menu/server_context.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="server_details"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/menu/server_details.ml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="server_list"
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/menu/server_list.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >Ponder
+                </string>
+            </file>
+        </source>
+        <source path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/build/generated/res/rs/debug" />
+        <source path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Daryl/Documents/Development/AndroidStudioProjects/ponder/app/src/debug/res" />
+    </dataSet>
+
+</merger>
